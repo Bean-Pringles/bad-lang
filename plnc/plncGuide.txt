@@ -4,7 +4,7 @@ Peak Language No Cap
 File Extension:
 .bussin
 
-Date Table
+Commands
 --------------------------
 yap          | Print
 lowkey       | Declare a Varible
@@ -22,18 +22,22 @@ clapback     | Return
 finna        | Try statement
 ragequit/ick | Except statement
 ongod        | Finally statement
+peace        | quit
+buff         | increment
+nerf         | decrement 
+nah          | not
 
 PLNC                           | Python
 ----------------------------------------------------------------------
-yap "Whats the Value"          | print("Whats the Value")
+yap("Whats the Value")         | print("Whats the Value")
 lowkey a = ""                  | a = ""
-rizz a                         | a = input("? "")
+a = rizz("? ")                 | a = input("? "")
                                |
 bet a == "3" {                 | if a == "3":
-    yap "A is equal to 3"      |     print("A is equal to 3")
+    yap("A is equal to 3")     |     print("A is equal to 3")
 } frfr a == "2"{               | elif a == "2":
-    yap "A is equivalent to 2" |     print("A is equivalent to 2")
+    yap("A is equal to 2")     |     print("A is equivalent to 2")
     W Means A is equal to 2    |     # Means A is equal to 2
 } sus {                        | else:
-    yap "What tf is A"         |     print("What tf is A")     
+    yap("What tf is A")        |     print("What tf is A")     
 }                              |
