@@ -26,6 +26,7 @@ peace        | quit
 buff         | increment
 nerf         | decrement 
 nah          | not
+highkey      | immutable variable 
 
 PLNC                           | Python
 ----------------------------------------------------------------------
