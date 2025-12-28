@@ -27,6 +27,7 @@ buff         | increment
 nerf         | decrement 
 nah          | not
 highkey      | immutable variable 
+bumpoff      | trim white space 
 
 PLNC                           | Python
 ----------------------------------------------------------------------
