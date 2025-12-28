@@ -16,7 +16,7 @@ W/L          | Comment Command     | Done
 cap          | False               |
 facts        | True                |
 vibecheck    | Read a file         | Done
-yeet         | Writing to a file   | 
+yeet         | Writing to a file   | Done 
 itsgiving    | Declares a function | 
 clapback     | Return              |
 finna        | Try statement       | 
