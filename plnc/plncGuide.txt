@@ -4,7 +4,7 @@ Peak Language No Cap
 File Extension:
 .bussin
 
-Commands
+Commands     | Function            | Status
 -----------------------------------------------------
 yap          | Print               | Done
 lowkey       | Declare a Varible   | Done
@@ -28,6 +28,8 @@ nerf         | decrement           | Done
 nah          | not                 |
 highkey      | immutable variable  | Done
 bumpoff      | trim white space    | Done
+chill        | sleep               | Done
+packup       | Delete a variable   | Done
 
 PLNC                           | Python
 ----------------------------------------------------------------------
